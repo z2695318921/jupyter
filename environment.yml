@@ -10,4 +10,6 @@ dependencies:
     - pandas
     - thinc
     - torch
+    - torchvision
+    - jupyter_contrib_nbextensions && jupyter contrib nbextension install --user
     
