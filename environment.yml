@@ -11,5 +11,5 @@ dependencies:
     - thinc
     - torch
     - torchvision
-    - jupyter_contrib_nbextensions && jupyter contrib nbextension install --user
+    - jupyter_contrib_nbextensions && jupyter contrib nbextension 
     
