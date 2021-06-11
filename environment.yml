@@ -11,5 +11,4 @@ dependencies:
     - thinc
     - torch
     - torchvision
-    - jupyter_contrib_nbextensions 
-    
+
